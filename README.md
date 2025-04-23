@@ -1,7 +1,10 @@
 # FSK
+## 212223060095 
+## JAGANATHAN K
 # Aim
 Write a Python program for the modulation and demodulation of FSK.
 # Tools required
+Python Code compiler (IDE).
 # Program
 ```
 import numpy as np
@@ -86,7 +89,6 @@ plt.show()
 
 
 # Results
-```
-Attach the output waveform
-```
+![WhatsApp Image 2025-04-23 at 21 10 58_9da28323](https://github.com/user-attachments/assets/d92d3d21-94a1-40a5-81b5-18394a7b3bd8)
+
 # Hardware experiment output waveform.
